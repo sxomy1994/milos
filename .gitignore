@@ -1,4 +1,5 @@
 # Compiled source #
 ###################
-*.exe
-*.ini
++*.exe
++*.ini
++!*info.ini
